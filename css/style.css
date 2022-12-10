@@ -1,0 +1,18 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+/* home */
+.home {
+    background: #CEF5C7;
+    height: 926px;
+    width: 428px;
+    border: 1px solid 2px;
+
+}
+.home_start{
+    display: flex;
+    justify-content: space-between;
+}
